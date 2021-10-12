@@ -1,3 +1,7 @@
+body {
+    /* cursor: url(needle.png), auto; */
+}
+
 *,h1,h2 {
     font-size: 16pt;
 }
